@@ -5,7 +5,7 @@
 
 - 🤝 I’m currently working on **Data Analytics,Python,Statistics**
 
-- 💬 Ask me about **var topics = [, "Java" "Python", "SQL", "Statistics", "Data Analytics" ]**
+- 💬 Ask me about **var topics = ["Java" "Python", "SQL", "Statistics", "Data Analytics" ]**
 
 - 📫 How to reach me **swarajsaraf1@gmail.com**
 
